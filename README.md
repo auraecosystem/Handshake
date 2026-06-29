@@ -3,7 +3,7 @@
 This repository contains specifications for the peer-to-peer networking protocols used by
 Ethereum. The issue tracker here is for discussions of protocol changes. You can also get
 in touch through our **[gitter channel](https://gitter.im/ethereum/devp2p)**.
-
+[DiscV5_audit_Cure53.pdf](https://github.com/user-attachments/files/29476225/DiscV5_audit_Cure53.pdf)
 ### Implementations
 
 devp2p is part of most Ethereum clients. Implementations include:
