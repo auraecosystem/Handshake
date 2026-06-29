@@ -25,3 +25,13 @@ devp2p is part of most Ethereum clients. Implementations include:
 - [Cava RLPx library (Java)](https://github.com/consensys/cava/tree/master/rlpx)
 
 WireShark dissectors are [available here](https://github.com/ConsenSys/ethereum-dissectors).
+
+[EIP](https://eips.ethereum.org/EIPS/eip-1459)
+
+[blog](https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/)
+
+[noiseprotocol](http://noiseprotocol.org/noise.html)
+
+[noiseexplorer](https://noiseexplorer.com/patterns/NK/)
+
+[noiseexplorerIK](https://noiseexplorer.com/patterns/IK/)
